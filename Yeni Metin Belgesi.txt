@@ -1,0 +1,52 @@
+<div class="container-sm">
+             <img class="img-fluid" src="/img/background-picture-removebg-preview.png" style="margin-left:100px ; float: left; max-width:100%; height: auto;" alt="">
+             <div class="h3" style="padding-top: 10rem; ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, nam.</div>
+         </div>
+         <div class="container" style="clear:left; margin-top: 200px ; padding-top: 50px;">
+          <div class="row" style="align-items:center;display: flex; margin-left: 125px;">
+            <div class="col" style="float:left;">
+              <img src="./img/Ansys-simulation-cg32.png" style="width: 350px; height: auto;" alt="">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, accusantium.</p>
+              <a href="">Learn More</a>
+            </div>
+            <div class="col">
+              <img src="./img/Ansys-simulation-cg32.png"style="width: 350px; height: auto;" alt="">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, accusantium.</p>
+              <a href="">Learn More</a>
+            </div>
+            <div class="col-6">
+              <img src="./img/Ansys-simulation-cg32.png"style="width: 350px; height: auto;" alt="">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, accusantium.</p>
+              <a href="">Learn More</a>
+            </div>
+            <div class="col-6">
+              <img src="./img/Ansys-simulation-cg32.png"style="width: 350px; height: auto;" alt="">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, accusantium.</p>
+              <a href="">Learn More</a>
+            </div>
+          </div>
+
+<footer>
+        <div class="conteiner-sm" style="float:inline-end; margin-left:100px; margin-top: 150px;;">
+          <div class="row">
+            <div class="col">
+              <a href="https://www.linkedin.com/in/harun-berk-bal-5216a0104/" class="social-icon si-rounded si-small si-linkedin">
+                <i class="fa fa-linkedin-square fa-2x" style="color:black ;margin-bottom:20px;"></i>
+             </a>
+             <a href="https://www.instagram.com/balharunberk/" class="social-icon si-rounded si-small si-linkedin">
+              <i class="fa fa-instagram fa-2x" style="color:black ;margin-top:20px; margin-left: 20px;"></i>
+           </a>
+              <p>© 2022 DesAnalyse. All right reserved. </p>
+              Desing by :<a href="https://www.linkedin.com/in/furkanrecepcinar/" style="margin: 0; padding: 0;">Furkan Recep Çınar </a>
+            </div>
+            <div class="col-2">
+              <ul>
+                <li> <a href="./Links/about.html">About</a></li>
+                <li><a href="./Links/blog.html">Blog</a></li>
+                <li><a href="./Links/contact.html">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+      </footer>
